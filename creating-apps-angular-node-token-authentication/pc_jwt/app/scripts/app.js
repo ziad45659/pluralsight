@@ -9,4 +9,4 @@
  * Main module of the application.
  */
 angular
-  .module('pcJwtApp', []);
+  .module('pcJwtApp', ['ui.router']);
